@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/example/</loc>
+    <loc>https://viktorb.me/example/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://viktorb.me/</loc>
   </url><url>
-    <loc>https://example.com/example/projects/</loc>
+    <loc>https://viktorb.me/example/projects/</loc>
   </url><url>
-    <loc>https://example.com/example/hidden/</loc>
+    <loc>https://viktorb.me/example/hidden/</loc>
   </url><url>
-    <loc>https://example.com/example/projects/3rd-level/4th-level/</loc>
+    <loc>https://viktorb.me/example/projects/3rd-level/4th-level/</loc>
   </url><url>
-    <loc>https://example.com/example/projects/3rd-level/</loc>
+    <loc>https://viktorb.me/example/projects/3rd-level/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://viktorb.me/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://viktorb.me/tags/</loc>
   </url>
 </urlset>
