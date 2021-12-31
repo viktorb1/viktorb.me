@@ -1,0 +1,11 @@
+  {{ with .Site.Params.social }}
+  <ul class="socials">
+    {{ range sort . "weight" }}
+        <li class="socials-li">
+          <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} target="_blank" {{ if .type }}type="{{ .type }}"{{ end }}>
+            <i class="{{ .icon }}" aria-hidden="true"></i>
+          </a>
+        </li>
+    {{ end }}
+  </ul>
+  {{ end }}
