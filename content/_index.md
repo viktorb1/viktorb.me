@@ -10,7 +10,7 @@ bookFlatSection: false
 
 This website is empty for now. Feel free to visit the links in the sidebar while I finish setting things up.
 
-In the meantime, here is some code to read:
+In the meantime, here is some code I wrote:
 
 ```python
 def cloneGraph(self, node: 'Node') -> 'Node':
